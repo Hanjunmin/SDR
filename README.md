@@ -1,4 +1,4 @@
-# LaSV (⚠️LaSV has been updated and replaced by LSGvar!).
+# LaSV (⚠️LaSV has been updated and replaced by LSGvar!⚠️).
 
 
 
